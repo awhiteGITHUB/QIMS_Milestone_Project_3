@@ -1,3 +1,7 @@
+createdb inventory-app
+psql -f schema.sql inventory-app && psql -f seed.sql QIMS-app
+
+
 create table customers (
     id serial primary key,
     first_name varchar(200),
