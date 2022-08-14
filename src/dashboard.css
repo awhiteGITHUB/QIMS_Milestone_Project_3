@@ -1,0 +1,43 @@
+.dashboard {
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),
+     
+  }
+  
+  .title {
+    font-size: 10vw;
+  }
+  
+  label {
+    font-size: 2vw;
+  }
+  
+  .button-container {
+    padding-left: 20px;
+  }
+  .linkToRoutines {
+    background: #ffffff none repeat scroll 0 0;
+  
+    border: 1 solid black;
+  
+    color: black;
+  
+    outline: medium none;
+  
+    padding: 5px;
+  
+    text-decoration: none;
+  
+    border-radius: 5px;
+  
+    font-size: 20px;
+  }
+  
+  .form-group {
+    padding: 10px;
+  }
+  
+  button {
+    border-radius: 5px;
+    font-size: 20px;
+  }
